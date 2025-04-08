@@ -1,51 +1,61 @@
-# Welcome to your Expo app 👋
+# Topic: React Native State Management 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This repository is an exercise for students to showcase their understanding of React Native states, including `useState`, `useEffect`, Context API, and state managers like Redux, Recoil, or Zustand.
 
-## Get started
+## Exercise Overview
 
-1. Install dependencies
+### Features to Implement:
+1. **Theme Switcher**  
+   - Switch between dark mode and light mode using the **Context API**.
 
+2. **Counter One**  
+   - A counter that increments its value using **useState** and **useEffect**.
+
+3. **Counter Two**  
+   - A counter similar to Counter One but implemented using a state manager of your choice (**Redux**, **Recoil**, or **Zustand**).
+
+### Project Structure:
+- You can implement these features as:
+  - Three separate projects, or
+  - A single project containing all three features.
+
+---
+
+## Installation Guide
+
+### Prerequisites:
+- Ensure you have **Node.js** and **npm** installed.
+- Install **React Native CLI** if not already installed.
+
+### Steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/react-native-state-exercise.git
+   cd react-native-state-exercise
+   ```
+
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-2. Start the app
-
+3. Run the project:
    ```bash
-    npx expo start
+   npm start
    ```
 
-In the output, you'll find options to open the app in a
+4. To run on an emulator or device:
+   ```bash
+   npm run android   # For Android
+   npm run ios       # For iOS
+   ```
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Authors
+This exercise was created by:
+**Kimberly Dayuja**
+**Airielle Arnado**
+**Rafael Martinez**  
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# state-management-exercise
+Feel free to reach out for any questions or feedback!  
