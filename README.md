@@ -54,6 +54,7 @@ This repository is an exercise for students to showcase their understanding of R
 
 ## Authors
 This exercise was created by:
+
 **Kimberly Dayuja**
 **Airielle Arnado**
 **Rafael Martinez**  
