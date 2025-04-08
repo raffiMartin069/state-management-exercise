@@ -1,7 +1,7 @@
 # Topic: React Native State Management 
 
 ## Note:
-Before proceeding this repository is built using  **Sates (Kim Dayuja), Context API (Airielle Aranado) and Redux (Rafael Martinez)**. The Theme Switcher is originally an example from **context api made by Airielle**, states and redux was just included on the later part. 
+Before proceeding this repository is built using  **Sates (Kim Dayuja), Context API (Airielle Aranado) and Redux (Rafael Martinez)**. The Theme Switcher is originally an example from **context api made by Airielle**. States and redux was just included on the later part. 
 
 ## Introduction
 This repository is an exercise for students to showcase their understanding of React Native states, including `useState`, `useEffect`, Context API, and state managers like Redux, Recoil, or Zustand.
