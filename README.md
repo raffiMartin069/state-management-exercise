@@ -30,6 +30,7 @@ This repository is an exercise for students to showcase their understanding of R
 ### Prerequisites:
 - Ensure you have **Node.js** and **npm** installed.
 - Install **React Native CLI** if not already installed.
+- Expo Go
 
 ### Steps:
 1. Clone the repository:
@@ -45,7 +46,7 @@ This repository is an exercise for students to showcase their understanding of R
 
 3. Run the project:
    ```bash
-   npm start
+   npx expo start
    ```
 
 4. To run on an emulator or device:
